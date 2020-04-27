@@ -10,5 +10,11 @@ public class FirstClass {
 
     }
 
+    public void gitTest(){
+
+        int j=0;
+        j +=10;
+    }
+
 
 }
