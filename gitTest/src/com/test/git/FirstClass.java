@@ -7,13 +7,14 @@ public class FirstClass {
 
         System.out.println("Hello git");
         System.out.println("Hello git");
-
+        //hello test
     }
 
     public void gitTest(){
 
         int j=0;
         j +=10;
+        System.out.println(j);
     }
 
 
